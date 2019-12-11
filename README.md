@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Parallax Image - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Parallax Image component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/parallax-image)
+- [Info Page](https://codyhouse.co/ds/components/info/parallax-image)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
